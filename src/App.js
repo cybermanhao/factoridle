@@ -1,14 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import game from "./game/game.js";
 
 function App() {
+  console.log(game.introduce);
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          edit
+          <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
