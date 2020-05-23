@@ -18,13 +18,6 @@ class Counter extends React.Component {
         >
           state.count: {this.state.count}
         </button>
-        <button
-          onClick={() => {
-            this.props.count += 1;
-          }}
-        >
-          props.count: {this.state.count}
-        </button>
       </div>
     );
   }
