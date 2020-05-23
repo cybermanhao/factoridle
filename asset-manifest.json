@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/factoridle/static/css/main.5f361e03.chunk.css",
-    "main.js": "/factoridle/static/js/main.2def0a4f.chunk.js",
-    "main.js.map": "/factoridle/static/js/main.2def0a4f.chunk.js.map",
+    "main.js": "/factoridle/static/js/main.d519b485.chunk.js",
+    "main.js.map": "/factoridle/static/js/main.d519b485.chunk.js.map",
     "runtime-main.js": "/factoridle/static/js/runtime-main.dfbaba25.js",
     "runtime-main.js.map": "/factoridle/static/js/runtime-main.dfbaba25.js.map",
     "static/js/2.f26fb2a3.chunk.js": "/factoridle/static/js/2.f26fb2a3.chunk.js",
     "static/js/2.f26fb2a3.chunk.js.map": "/factoridle/static/js/2.f26fb2a3.chunk.js.map",
     "index.html": "/factoridle/index.html",
-    "precache-manifest.adf48979f4f14b42bd0af799d77be9f0.js": "/factoridle/precache-manifest.adf48979f4f14b42bd0af799d77be9f0.js",
+    "precache-manifest.97c9d4641c3c8cc93f7f1c61a433ceb5.js": "/factoridle/precache-manifest.97c9d4641c3c8cc93f7f1c61a433ceb5.js",
     "service-worker.js": "/factoridle/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/factoridle/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f26fb2a3.chunk.js.LICENSE.txt": "/factoridle/static/js/2.f26fb2a3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dfbaba25.js",
     "static/js/2.f26fb2a3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2def0a4f.chunk.js"
+    "static/js/main.d519b485.chunk.js"
   ]
 }

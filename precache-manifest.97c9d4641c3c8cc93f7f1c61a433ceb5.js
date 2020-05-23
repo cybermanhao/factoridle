@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c792d6ced1f1d7c15d654ccff4bc7ab",
+    "revision": "f9d418d4f96b18e73f3c2d278c4202a7",
     "url": "/factoridle/index.html"
   },
   {
-    "revision": "078716e59c05d191f65d",
+    "revision": "6050fabae8b737b6bb29",
     "url": "/factoridle/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/factoridle/static/js/2.f26fb2a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "078716e59c05d191f65d",
-    "url": "/factoridle/static/js/main.2def0a4f.chunk.js"
+    "revision": "6050fabae8b737b6bb29",
+    "url": "/factoridle/static/js/main.d519b485.chunk.js"
   },
   {
     "revision": "0284b592b349f350d9d9",
