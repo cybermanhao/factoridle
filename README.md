@@ -1,7 +1,7 @@
 ## Factoridle
 
-This is a incremental game (idle game) inspired by the game 'factorio'.(https://www.factorio.com/)
-Factorio is an awesome game but also a hard game,so I start this project.'Factoridle' means factorio+idle.
+This is a incremental game (idle game) inspired by the game 'factorio'.(https://www.factorio.com/) <br/>
+Factorio is an awesome game but also a hard game,so I start this project.'Factoridle' means factorio+idle.<br/>
 Shall I call this game faketorio?
 
 ## Play
